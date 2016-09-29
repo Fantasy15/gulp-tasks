@@ -1,0 +1,27 @@
+{
+  "name": "gulp-tasks",
+  "version": "0.0.1",
+  "description": "a collection of useful gulp tasks",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fantasy15/gulp-tasks.git"
+  },
+  "keywords": [
+    "gulp",
+    "task"
+  ],
+  "author": "bigben15",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fantasy15/gulp-tasks/issues"
+  },
+  "homepage": "https://github.com/Fantasy15/gulp-tasks#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp.spritesmith": "^6.2.1"
+  }
+}
